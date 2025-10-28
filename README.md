@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e fascinado em como ela pode desenvolver soluçõe
 
 ### 🎓 Educação e Estudos
 
-* **Graduação:** Cursando Análise e Desenvolvimento de Sistemas.
+* **Graduação:** Cursando Sistemas da Informação.
 * **Certificação (Em Progresso):** Estudando para o exame **CompTIA Security+** para validar minhas habilidades.
 * **Cursos Concluídos:**
     * Conceitos Básicos de Redes - Cisco Networking Academy
