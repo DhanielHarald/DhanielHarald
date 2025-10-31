@@ -1,4 +1,5 @@
 # Olá! 👋 Eu sou o Dhaniel Harald
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaniel-harald-b3b08741a9)
 
 ### 💻 Sobre Mim
 Sou apaixonado por tecnologia e fascinado em como ela pode desenvolver soluções das mais diversas. Estou em transição de carreira, buscando minha primeira oportunidade para colocar em prática o que tenho aprendido na área de Redes e Cibersegurança.
@@ -14,6 +15,7 @@ Sou apaixonado por tecnologia e fascinado em como ela pode desenvolver soluçõe
     * Introduction to Cybersecurity - Cisco Networking Academy
     * Networking Devices and Initial Configuration - Cisco Networking Academy
     * Lei Geral de Proteção de Dados (LGPD) - SEST/SENAT
+    * Python Básico - LinkedIn Learning
 * **Idiomas:**
     * Português (Nativo)
     * Inglês (Nível B1) - Leitura, escrita e desenvolvendo conversação.
