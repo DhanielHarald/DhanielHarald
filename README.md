@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou o Dhaniel Harald
 
 ### 💻 Sobre Mim
-Sou apaixonado por tecnologia e fascinado em como ela pode desenvolver soluções das mais diversas. Estou em transição de carreira, buscando minha primeira oportunidade para colocar em prática o que tenho aprendido na área de Cibersegurança.
+Sou apaixonado por tecnologia e fascinado em como ela pode desenvolver soluções das mais diversas. Estou em transição de carreira, buscando minha primeira oportunidade para colocar em prática o que tenho aprendido na área de Redes e Cibersegurança.
 
 ---
 
