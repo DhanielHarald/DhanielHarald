@@ -1,5 +1,5 @@
 # Olá! 👋 Eu sou o Dhaniel Harald
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaniel-harald-b5b8741a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanielharald)
 
 ### 💻 Sobre Mim
 Sou apaixonado por tecnologia e fascinado em como ela pode desenvolver soluções das mais diversas. Estou em transição de carreira, buscando minha primeira oportunidade para colocar em prática o que tenho aprendido na área de Redes e Cibersegurança.
@@ -35,5 +35,9 @@ Estou ativamente construindo meu laboratório de testes para documentar meus est
 
 ### 📫 Onde me Encontrar
 
+Vamos nos conectar!
+
 [LinkedIn]: www.linkedin.com/in/dhanielharald
+
 [Email]: dhanielharald2000@gmail.com
+
