@@ -37,7 +37,5 @@ Estou ativamente construindo meu laboratório de testes para documentar meus est
 
 Vamos nos conectar!
 
-[LinkedIn]: www.linkedin.com/in/dhanielharald
-
-[Email]: dhanielharald2000@gmail.com
-
+* [LinkedIn]: www.linkedin.com/in/dhanielharald
+* [Email]: dhanielharald2000@gmail.com
