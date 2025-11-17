@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanielharald)
 
 ### 💻 Sobre Mim
-Sou Analista Implementador de Tecnologias apaixonado por tecnologia e fascinado em como ela pode desenvolver soluções das mais diversas. Estou em transição de carreira, buscando minha primeira oportunidade para colocar em prática o que tenho aprendido na área de Redes e Cibersegurança.
+Sou Analista de Implantação de Soluções Tecnologicas apaixonado por tecnologia e fascinado em como ela pode desenvolver soluções das mais diversas. Estou em transição de carreira, buscando minha primeira oportunidade para colocar em prática o que tenho aprendido na área de Redes e Cibersegurança.
 
 ---
 
