@@ -29,7 +29,7 @@ Estou ativamente construindo meu laboratório de testes para documentar meus est
 * **Blue Team & Red Team**
 * **Redes e Infraestrutura**
 * **Administração de Sistemas (Windows & Linux)**
-* **Scripting (Python & Bash)**
+* **Desenvolvimento e Scripting (Python, PowerShell & Bash)**
 
 ---
 
